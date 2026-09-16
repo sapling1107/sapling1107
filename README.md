@@ -1,4 +1,17 @@
-## Hi there 👋
+## # Hi, I'm Nox 👋
+
+I build small tools and apps for everyday use.
+
+## Projects
+
+- 場次採購清單 (Doujin Purchase List)
+- Ebook Promotions
+- Event Point Planner
+- 刀劍男士 經驗值計算器
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G4J026LP4C)
 
 <!--
 **sapling1107/sapling1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
